@@ -1,0 +1,1 @@
+{"name":"Local: 1B","url":"d:\\VSCode\\Graph_Mashup\\1B.cpp","tests":[{"id":1609185052222,"input":"5 4\n1 2\n3 4\n5 4\n3 5\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode\\Graph_Mashup\\1B.cpp","group":"local","local":true}
