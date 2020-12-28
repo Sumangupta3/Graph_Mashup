@@ -1,3 +1,4 @@
+//Qstn Link--->https://codeforces.com/problemset/problem/1365/D
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
